@@ -7,6 +7,7 @@
 #
 ##########################################################################
 
+# added some text to test in GitHub
 
 rm(list=ls()) #clear all previous
 library(NCStats) # for Subset function
